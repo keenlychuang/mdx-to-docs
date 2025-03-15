@@ -1,0 +1,5 @@
+python-markdown>=3.4.0
+beautifulsoup4>=4.10.0
+python-docx>=0.8.11
+weasyprint>=53.0
+python-frontmatter>=1.0.0

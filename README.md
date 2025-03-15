@@ -5,7 +5,7 @@ Lightweight Python script to convert directory of mdx files to pdf or docx
 ## Install required dependencies
 
 ```bash
-pip install python-markdown beautifulsoup4 python-docx weasyprint python-frontmatter
+pip install -r requirements.txt
 ```
 
 ## Usage
